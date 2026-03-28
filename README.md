@@ -1,28 +1,23 @@
-# Привет! 👋
+![alxbavy-banner](https://github.com/alxbavy/alxbavy/blob/main/banners/alxbavy-banner.png)
 
-Я Александр, пишу на **Python** (иногда трогаю Java). 
+### About me
 
-В последнее время плотно изучаю **AI, LLM и RAG**, читаю статьи и собираю ИИ-агентов.
+I'm Alexander, a Python Developer.
+Lately, I've been focusing on AI and LLMs, exploring research papers, and building AI agents.
 
-### 🛠 С чем люблю работать
+### Technologies
 
-**База**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**БД и архитектура**<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6B7280?style=for-the-badge&logo=python&logoColor=white)
-
-**AI / LLM**<br>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1565C0?style=for-the-badge&logo=python&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-E52B50?style=for-the-badge&logo=qdrant&logoColor=white)
-
-**Инфраструктура и тесты**<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/ALEMBIC-000000?style=for-the-badge&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/QDRANT-000000?style=for-the-badge&logo=qdrant&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OPENAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/PYTEST-000000?style=for-the-badge&logo=pytest&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/TESTCONTAINERS-000000?style=for-the-badge&logo=docker&logoColor=white)
